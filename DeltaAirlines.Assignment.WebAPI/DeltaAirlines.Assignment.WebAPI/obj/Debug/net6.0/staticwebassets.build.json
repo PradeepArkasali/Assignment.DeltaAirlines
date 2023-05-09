@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cbPyBgNS89AEjOw0CKGrgNQVzVEXS3k3bqWgy15z61E=",
+  "Source": "DeltaAirlines.Assignment.WebAPI",
+  "BasePath": "_content/DeltaAirlines.Assignment.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
