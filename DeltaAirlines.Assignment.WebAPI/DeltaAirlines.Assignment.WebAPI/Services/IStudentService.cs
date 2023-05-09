@@ -4,6 +4,6 @@ namespace DeltaAirlines.Assignment.WebAPI.Services
 {
     public interface IStudentService
     {
-        List<Student> GetStudents();
+        List<Student> GetStudents(); 
     }
 }
