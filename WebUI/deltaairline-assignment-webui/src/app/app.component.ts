@@ -26,7 +26,7 @@ import { HttpClient } from '@angular/common/http';
                 </kendo-grid-column>
                 <kendo-grid-column field="age" title="Age" [width]="100" [class]="{'text-center': true}" [resizable]="false">                   
                 </kendo-grid-column>
-                <kendo-grid-column field="hobbies" title="Hobbies" [width]="100" [class]="{'text-center': true}" [resizable]="false" filter="boolean">                    
+                <kendo-grid-column field="hobbies" title="Hobbies" [width]="100" [class]="{'text-center': true}" [resizable]="false">                    
                 </kendo-grid-column>
             </kendo-grid-column-group>           
             
